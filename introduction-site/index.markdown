@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Welcome to My Website
+
+Thank you for visiting my website. Learn more about me on the [About Me](/aboutme.html) page.

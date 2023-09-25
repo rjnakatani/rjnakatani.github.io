@@ -1,18 +1,22 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About Me
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Your Name's Profile Picture](/assets/images/your-profile-picture.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## About Me
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello! I'm Your Name, and I'm passionate about [your interests or field]. I love [mention some hobbies or interests], and I enjoy [mention what you do in your free time or your work].
 
+## Projects
 
-[jekyll-organization]: https://github.com/jekyll
+Here are some of the projects I've worked on:
+
+- [Project 1](#) - Description of project 1.
+- [Project 2](#) - Description of project 2.
+- [Project 3](#) - Description of project 3.
+
+## Contact
+
+You can reach out to me at [your email address] or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile). I'm always open to new opportunities and collaborations!
