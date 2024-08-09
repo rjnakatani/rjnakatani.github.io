@@ -29,11 +29,9 @@ github_username:  rjnakatani
 show_downloads: false
 
 # Build settings
-theme: minima
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile
 plugins:
 - jekyll-feed
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
