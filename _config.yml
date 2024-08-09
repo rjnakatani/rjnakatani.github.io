@@ -23,8 +23,10 @@ email: ryo.nakatani@oist.jp
 description: >- # this means to ignore newlines until "baseurl:"
   Ryo Joel Nakatani, MSc, PhD Candidate at OIST.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rjnakatani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rjnakatani.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: rjnakatani.github.io
 twitter_username: ryojnakatani
+repository: rjnakatani/rjnakatani.github.io
 github_username:  rjnakatani
 show_downloads: false
 

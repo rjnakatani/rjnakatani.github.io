@@ -1,11 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
-![profilePicture](/assets/images/profPic.jpg)
-
+<img src="assets/images/profPic.jpg" alt="drawing" width="500" id="hp"/>
 
 ## Current Affiliation
 
