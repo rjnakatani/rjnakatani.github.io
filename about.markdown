@@ -3,20 +3,16 @@ layout: default
 title: About Me
 ---
 
-![Your Name's Profile Picture](/assets/images/your-profile-picture.jpg)
 
 ## About Me
-
-Hello! I'm Your Name, and I'm passionate about [your interests or field]. I love [mention some hobbies or interests], and I enjoy [mention what you do in your free time or your work].
+Hello! I'm Ryo J. Nakatani.
+Born in France, raised in the US and educated in Japan.
 
 ## Projects
+Here are some of the projects I am working/worked on.
 
-Here are some of the projects I've worked on:
-
-- [Project 1](#) - Description of project 1.
-- [Project 2](#) - Description of project 2.
-- [Project 3](#) - Description of project 3.
+- [Astrocyte Electrophysiology](https://www.biorxiv.org/content/10.1101/2024.06.05.597669v1) - Submitted. Classically Astrocytes are thought as electrophysiologically passive cells. We now they are not. How? and Why?
+- [E. coli heterogeneity](https://www.nature.com/articles/s41598-022-22189-x) - Published. Same GENE, different metabolic activities. We focuse on ATP and see that communication is the key for differences when the population is starving.
 
 ## Contact
-
-You can reach out to me at [your email address] or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile). I'm always open to new opportunities and collaborations!
+You can reach out to me at ryo.nakatani\_at\_oist.jp or X (\@ryojnakatani).
