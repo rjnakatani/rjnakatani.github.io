@@ -3,12 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-<img src="assets/images/profPic.jpg" alt="drawing" width="500" id="hp"/>
+<img src="assets/images/profPic.jpg" alt="drawing" width="300" id="hp"/>
 
 ## Current Affiliation
 
- PhD. Student at [Computational Neuroscience Unit](https://groups.oist.jp/cnu) in [OIST](https://www.oist.jp/).
+ PhD. Student at [Computational Neuroscience Unit](https://groups.oist.jp/cnu) in [OIST](https://www.oist.jp/).  
  
+## Researcher Related Links
+
+[X](https://x.com/ryojnakatani)  
+[Github](https://github.com/rjnakatani)  
+[ORCID](https://orcid.org/0000-0002-7009-9996)  
+[ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
+
 ## Profile  
 
 I'm interested in utilizing various mathematical models in elucidating underlying molecular mechanisms of biological phenomena.
@@ -21,9 +28,3 @@ Further information can be found in [AboutMe](/about.markdown).
     
  For more specifics please find my CV [here](/cv.markdown).
  
-# Researcher Related Links
-
-[X](https://x.com/ryojnakatani)  
-[Github](https://github.com/rjnakatani)  
-[ORCID](https://orcid.org/0000-0002-7009-9996)  
-[ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
