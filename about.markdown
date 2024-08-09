@@ -15,4 +15,4 @@ Here are some of the projects I am working/worked on.
 - [E. coli heterogeneity](https://www.nature.com/articles/s41598-022-22189-x) - Published. Same GENE, different metabolic activities. We focuse on ATP and see that communication is the key for differences when the population is starving.
 
 ## Contact
-You can reach out to me at ryo.nakatani\_at\_oist.jp or X (\@ryojnakatani).
+You can reach out to me at ryo.nakatani\_at\_oist.jp or X (@ryojnakatani).
