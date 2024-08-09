@@ -36,5 +36,4 @@
 
 ## Full Publication List
 
-<script src="https://bibbase.org/show?bib=https://github.com/rjnakatani/rjnakatani.github.io/blob/main/assets/publication/rjBib.bib&theme=simple&authorFirst=1&jsonp=1">
-</script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/rjnakatani/rjnakatani.github.io/main/assets/publication/rjBib.bib&theme=simple&jsonp=1"></script> 
