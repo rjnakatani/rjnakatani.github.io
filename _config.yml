@@ -22,16 +22,15 @@ title: Ryo J Nakatani's Homepage
 email: ryo.nakatani@oist.jp
 description: >- # this means to ignore newlines until "baseurl:"
   Ryo Joel Nakatani, MSc, PhD Candidate at OIST.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rjnakatani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://rjnakatani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryojnakatani
 github_username:  rjnakatani
 show_downloads: false
 
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
+theme: jekyll-theme-tactile
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
 
 # Exclude from processing.
