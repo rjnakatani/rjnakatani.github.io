@@ -37,3 +37,5 @@
 ## Full Publication List
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/rjnakatani/rjnakatani.github.io/main/assets/publication/rjBib.bib&theme=simple&jsonp=1"></script> 
+
+[home](/index.markdown)
