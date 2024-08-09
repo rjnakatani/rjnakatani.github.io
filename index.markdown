@@ -16,15 +16,20 @@ layout: default
 [ORCID](https://orcid.org/0000-0002-7009-9996)  
 [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
 
+<div id="chart"></div>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script src="assets/charts/apexchartScript.js"></script>
+
 ## Profile  
 
 I'm interested in utilizing various mathematical models in elucidating underlying molecular mechanisms of biological phenomena.
 Currently I'm studying astrocytes and their actually quite dynamic electrophysiological properties using NEURON.
 Further information can be found in [AboutMe](/about.markdown).
     
-## Chosen Articles
+## Selected Publications
 
 - [Intercellular interaction mechanisms promote diversity in intracellular ATP concentration in Escherichia coli populations](https://www.nature.com/articles/s41598-022-22189-x)
     
- For more specifics please find my CV [here](/cv.markdown).
+ For more specifics please in my [CV](/cv.markdown).
  
