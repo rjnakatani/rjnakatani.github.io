@@ -3,7 +3,7 @@
 
 - [Current] Okinawa Institute of Science and Technology  
   [Computational Neuroscience Unit](https://groups.oist.jp/cnu) (Erik De Schutter)
-- [2019-2021] MSc, Keio University Graduate School of Science and Technology, School of Fundamental Science and Technology, Center for Bioscience and Informatics  
+- [2019-2021] MSc, Keio University Graduate School of Science and Technology, School of Fundamental Science and Technology, Center for Biosciences and Informatics  
   [Systems Biology Laboratory](https://fun.bio.keio.ac.jp/) (Akira Funahashi)
 - [2015-2019] BSc, Keio University, Faculty of Science and Technology, Department of Biosciences and Informatics  
   [Systems Biology Laboratory](https://fun.bio.keio.ac.jp/) (Akira Funahashi)
@@ -13,7 +13,7 @@
 - Research Staff  
   Keio University, Apr 2021 -- Aug 2021
 - Teaching Assistant  
-  Keio Univesity, Sep 2019 -- Dec 2020
+  Keio University, Sep 2019 -- Dec 2020
   
 ## Awards
 
@@ -29,7 +29,7 @@
 
 - NEURO 2024 (2024) Japan Neuroscience Society, Selected Speaker  
   _Elucidating mechanisms of astrocyte depolarization_
-- Japanese Society for Mathematical Biology yearly meeting (2020) Japan Societ of Mathematical Biology, Invited Speaker  
+- Japanese Society for Mathematical Biology yearly meeting (2020) Japan Society of Mathematical Biology, Invited Speaker  
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_
 - Hokkaido Caravan 2019 (2019) Japanese Society for Quantitative Biology, Selected Speaker  
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_

@@ -73,17 +73,24 @@ var options = {
 var chart = new ApexCharts(document.querySelector("#chart"), options);
 chart.render();
 
-$.getJSON('/assets/charts/first_author.json', function(response) {
-    chart.updateSeries([{
-        name: 'First Author',
-        data: response
-    }])
-});
-$.getJSON('/assets/charts/presentation.json', function(response) {
-    chart.appendSeries({
-        name: 'Presentations',
-        data: response
-    })
+$.getJSON('/assets/charts/research_activity.json', function(response) {
+    let isFirst = true;
+    console.log(response);
+    $.each(response, function( key, val ) {
+        if (isFirst) {
+            console.log(val)
+            chart.updateSeries([{
+                name: key,
+                data: val
+            }]);
+            isFirst = false;
+        } else {
+            chart.appendSeries({
+                name: key,
+                data: val
+            });
+        }
+    });
 });
 // chart.updateOptions({
 //     legend: {
