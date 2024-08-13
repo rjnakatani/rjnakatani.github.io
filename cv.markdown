@@ -17,6 +17,8 @@
   
 ## Awards
 
+- Society for Neuroscience  
+  2024 Trainee Professional Development Award
 - Japan Society for the Promotion of Science  
   2024-2027 DC1 fellow
   
