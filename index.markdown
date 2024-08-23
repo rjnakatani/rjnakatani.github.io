@@ -4,17 +4,16 @@
 layout: default
 ---
 <img src="assets/images/profPic.jpg" alt="drawing" width="300" id="hp"/>
-
 ## Current Affiliation
 
  PhD. Student at [Computational Neuroscience Unit](https://groups.oist.jp/cnu) in [OIST](https://www.oist.jp/).  
  
 ## Researcher Related Links
 
-[X](https://x.com/ryojnakatani)  
-[Github](https://github.com/rjnakatani)  
-[ORCID](https://orcid.org/0000-0002-7009-9996)  
-[ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
+[X](https://x.com/ryojnakatani)
+    [Github](https://github.com/rjnakatani)  
+[ORCID](https://orcid.org/0000-0002-7009-9996)
+    [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
 
 <div id="chart"></div>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
