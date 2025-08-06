@@ -18,10 +18,10 @@
   
 ## Awards
 
+- Organization for Computational Neuroscience  
+  2025 CNS meeting Travel Award
 - Society for Neuroscience  
   2024 Trainee Professional Development Award
-- Organization for Computational Neuroscience
-  2025 CNS meeting Travel Award
 - Japan Society for the Promotion of Science  
   2024-2027 DC1 fellow
   
@@ -31,7 +31,7 @@
 
 ## Selected Presentations
 
-- CNS 2025 (2025) Organization for Computational Neuroscience, Selected Speaker
+- CNS 2025 (2025) Organization for Computational Neuroscience, Selected Speaker  
   Mechanisms of neurotransmitter driven depolarization in perisynaptic astrocytic processes
 - NEURO 2024 (2024) Japan Neuroscience Society, Selected Speaker  
   _Elucidating mechanisms of astrocyte depolarization_
