@@ -1,4 +1,5 @@
 # CV
+
 ## Education
 
 - [Current] Okinawa Institute of Science and Technology  
@@ -17,6 +18,8 @@
   
 ## Awards
 
+- Organization for Computational Neuroscience  
+  2025 CNS meeting Travel Award
 - Society for Neuroscience  
   2024 Trainee Professional Development Award
 - Japan Society for the Promotion of Science  
@@ -24,11 +27,12 @@
   
 ## Selected Publications
 
-- [preprint] Nakatani R. J. and De Schutter E. (2024) _Active enhancement of synapse driven depolarization of perisynaptic astrocytic processes_, BioRXiv
 - Nakatani R. J. et al. (2022) _Intercellular interaction mechanisms promote diversity in intracellular ATP concentration in Escherichia coli populations_, Scientific Reports
 
 ## Selected Presentations
 
+- CNS 2025 (2025) Organization for Computational Neuroscience, Selected Speaker  
+  Mechanisms of neurotransmitter driven depolarization in perisynaptic astrocytic processes
 - NEURO 2024 (2024) Japan Neuroscience Society, Selected Speaker  
   _Elucidating mechanisms of astrocyte depolarization_
 - Japanese Society for Mathematical Biology yearly meeting (2020) Japan Society of Mathematical Biology, Invited Speaker  
@@ -38,6 +42,6 @@
 
 ## Full Publication List
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/rjnakatani/rjnakatani.github.io/main/assets/publication/rjBib.bib&theme=simple&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/rjnakatani/rjnakatani.github.io/main/assets/publication/rjBib.bib&theme=simple&jsonp=1"></script>
 
 [home](/index.markdown)
