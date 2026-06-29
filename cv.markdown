@@ -16,15 +16,7 @@
 - Teaching Assistant  
   Keio University, Sep 2019 -- Dec 2020
   
-## Awards
-
-- Organization for Computational Neuroscience  
-  2025 CNS meeting Travel Award
-- Society for Neuroscience  
-  2024 Trainee Professional Development Award
-- Japan Society for the Promotion of Science  
-  2024-2027 DC1 fellow
-  
+ 
 ## Selected Publications
 
 - Nakatani R. J. et al. (2022) _Intercellular interaction mechanisms promote diversity in intracellular ATP concentration in Escherichia coli populations_, Scientific Reports
@@ -39,7 +31,17 @@
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_
 - Hokkaido Caravan 2019 (2019) Japanese Society for Quantitative Biology, Selected Speaker  
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_
+## Awards
 
+- Japan Society for the Promotion of Science  
+  2026 DC1 fellow special allowance for outstanding research achievements
+- Organization for Computational Neuroscience  
+  2025 CNS meeting Travel Award
+- Society for Neuroscience  
+  2024 Trainee Professional Development Award
+- Japan Society for the Promotion of Science  
+  2024-2027 DC1 fellow
+ 
 ## Full Publication List
 
 <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/rjnakatani/rjnakatani.github.io/main/assets/publication/rjBib.bib&theme=simple&jsonp=1"></script>
