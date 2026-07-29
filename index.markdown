@@ -38,7 +38,7 @@ Further information can be found in [AboutMe](/about.markdown).
 <div style="max-height: 150px; overflow-y: auto; border: 1px solid #ccc; border-radius: 4px; padding: 8px 16px;">
 <ul>
 <li>2026-07 — Ryo presented a poster at FENS</li>
-<li>2026-06 — Ryo was awarded the Special allowance for outstanding achievements' during his DC1</li>
+<li>2026-06 — Ryo was awarded the 'Special allowance for outstanding achievements' during his DC1</li>
 <li>2025-07 — Ryo presented at OCNS and was awarded the OCNS travel award</li>
 <li>2024-10 — Ryo presented a poster at SfN and was awarded the Trainee Professional Development Award</li>
 <li>2024-08 — Ryo presented at NEURO 2024</li>
