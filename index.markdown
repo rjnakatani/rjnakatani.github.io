@@ -21,7 +21,11 @@ layout: default
  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 <script src="assets/charts/apexchartScript.js"></script>
 
-## Profile  
+## News
+
+<a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/RyoJNakatani?ref_src=twsrc%5Etfw">Tweets by RyoJNakatani</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Profile
 
 I'm interested in utilizing various mathematical models in elucidating underlying molecular mechanisms of biological phenomena.
 Currently I'm studying astrocytes and their actually quite dynamic electrophysiological properties using NEURON.
