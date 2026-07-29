@@ -10,11 +10,13 @@ layout: default
  
 ## Related Links
 
-[Business Card](/assets/vcard/Ryo&#32;J.&#32;Nakatani&#32;2.vcf)  
-<i class="fa-brands fa-x-twitter"></i> [X](https://x.com/ryojnakatani)  
-    <i class="fa-brands fa-github"></i> [Github](https://github.com/rjnakatani)  
-<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7009-9996)  
-    <i class="fa-brands fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)
+[Business Card](/assets/vcard/Ryo&#32;J.&#32;Nakatani&#32;2.vcf) &nbsp;&nbsp;
+<i class="fa-brands fa-x-twitter"></i> [X](https://x.com/ryojnakatani) &nbsp;&nbsp;
+<i class="fa-brands fa-github"></i> [Github](https://github.com/rjnakatani) &nbsp;&nbsp;
+<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7009-9996) &nbsp;&nbsp;
+<i class="fa-brands fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)
+
+<div style="clear: both;"></div>
 
 <div id="chart"></div>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
