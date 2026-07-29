@@ -11,10 +11,10 @@ layout: default
 ## Related Links
 
 [Business Card](/assets/vcard/Ryo&#32;J.&#32;Nakatani&#32;2.vcf)  
-[X](https://x.com/ryojnakatani)
-    [Github](https://github.com/rjnakatani)  
-[ORCID](https://orcid.org/0000-0002-7009-9996)
-    [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)  
+<i class="fa-brands fa-x-twitter"></i> [X](https://x.com/ryojnakatani)  
+    <i class="fa-brands fa-github"></i> [Github](https://github.com/rjnakatani)  
+<i class="fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7009-9996)  
+    <i class="fa-brands fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Ryo-Nakatani-3)
 
 <div id="chart"></div>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
