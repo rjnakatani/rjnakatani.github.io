@@ -1,0 +1,3 @@
+[codespell]
+skip = .git,.githooks,*.bib,*.vcf,*.jpg,*.png
+# ignore-words-list = word1,word2
