@@ -47,3 +47,4 @@ Further information can be found in [AboutMe](/about.markdown).
 </ul>
 </div>
 
+{% include news_content.md %}
