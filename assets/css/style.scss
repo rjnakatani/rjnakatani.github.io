@@ -3,30 +3,56 @@
 
 
 @import "{{ site.theme }}";
-/*========= 上部固定させるためのCSS ===============*/
+
+/*========= Site header / navigation ===============*/
 #header{
-	height: 60px;/*高さ指定*/
-	width:100%;/*横幅指定*/
-	/*以下はレイアウトのためのCSS*/
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	background:#333;
-	color:#fff;
-	text-align: center;
-	padding: 20px;
+  width: 100%;
+  background: #333;
+  color: #fff;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  /* CSS-only sticky header: stays pinned while scrolling, on every page. */
+  position: sticky;
+  top: 0;
+  z-index: 999;
 }
 
-/*JSを使いfixedクラスが付与された際の設定*/
-#header.fixed{
-	position: fixed;/*fixedを設定して固定*/
-  z-index: 999;/*最前面へ*/
-  top:0;/*位置指定*/
-  left:0;/*位置指定*/
+#header .site-header-inner{
+  max-width: 620px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px 18px;
 }
-// header{
-//     display: none;
-// }
+
+#header .site-header-title{
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #fff;
+}
+
+#header .site-nav{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+}
+
+#header .site-nav a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 15px;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+}
+
+#header .site-nav a:hover,
+#header .site-nav a:focus{
+  border-bottom-color: #fff;
+  outline: none;
+}
 
 #hp {
     float: Left;
@@ -36,4 +62,3 @@
   max-width: 620px;
   margin: 35px auto;
 }
-
