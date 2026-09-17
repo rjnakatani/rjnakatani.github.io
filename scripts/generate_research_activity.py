@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate assets/charts/research_activity.json from news.md.
+"""Generate assets/charts/research_activity.json from _includes/news.md.
 
 Each bullet in news.md starts with a year-month (e.g. ``- 2026-07 — ...``).
 The bullet text is classified by keyword into one or more categories and
@@ -25,7 +25,7 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-NEWS_PATH = ROOT / "news.md"
+NEWS_PATH = ROOT / "_includes" / "news.md"
 OUT_PATH = ROOT / "assets" / "charts" / "research_activity.json"
 
 CATEGORIES = [
