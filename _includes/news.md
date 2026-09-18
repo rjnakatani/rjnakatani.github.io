@@ -1,6 +1,6 @@
 <ul>
 <li>2026-09 — Ryo's first-author paper was accepted in eLife: “Global Nernstian astrocytic depolarization breaks down during local synaptic input” (Nakatani R. J. & De Schutter E.)</li>
-<li>2026-07 — Ryo presented a poster at the Federation of European Neuroscience Societies (FENS 2026), presenting on “Local NMDA-R activation and depolarization of astrocytic processes during synaptic plasticity.”</li>
+<li>2026-07 — Ryo presented a poster at the Federation of European Neuroscience Societies (FENS 2026)</li>
 <li>2026-04 — Ryo received the special allowance for excellent performance from JSPS for 2026.</li>
 <li>2025-07 — Ryo presented at Organization for Computational Neuroscience and Systems (OCNS) and received the OCNS travel grant.</li>
 <li>2024-10 — Ryo presented a poster at the Society for Neuroscience (SfN) and received the Trainee Professional Development Award.</li>
