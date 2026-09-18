@@ -36,7 +36,8 @@ CATEGORIES = [
 ]
 
 # Bullet: "- 2026-07 — text..." (also accepts : or - as separator)
-BULLET_RE = re.compile(r"^\s*-\s*(\d{4})-\d{2}\s*(?:—|:|-)\s*(.*)$")
+BULLET_RE = re.compile(r"^\s*(?:-|\*|<li>)\s*(\d{4})-\d{2}\s*(?:—|:|-)\s*(.+)$")
+LIST_ITEM_CLOSE_RE = re.compile(r"\s*</li>\s*$")
 # Explicit year range in the text, e.g. "2024-2027" / "2024–2027"
 YEAR_RANGE_RE = re.compile(r"(20\d{2})\s*[-–]\s*(20\d{2})")
 
@@ -50,7 +51,7 @@ def tally(path: Path) -> dict:
         if not m:
             continue
         year = int(m.group(1))
-        text = m.group(2)
+        text = LIST_ITEM_CLOSE_RE.sub("", m.group(2)).strip()
 
         # Expand explicit year ranges (multi-year fellowships etc.),
         # clamped to the current year.
