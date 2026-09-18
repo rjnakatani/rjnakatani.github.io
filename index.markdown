@@ -35,4 +35,8 @@ Further information can be found in [AboutMe](/about.markdown).
 
  For more specifics please check my [CV](/cv.markdown).
 
+## News
+
+<div style="max-height: 150px; overflow-y: auto; border: 1px solid #ccc; border-radius: 4px; padding: 8px 16px;">
 {% include news.md %}
+</div>
