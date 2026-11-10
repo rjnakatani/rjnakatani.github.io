@@ -31,6 +31,7 @@ Further information can be found in [AboutMe](/about.markdown).
 
 ## Selected Publications
 
+- [Global Nernstian astrocytic depolarization breaks down during local synaptic input](https://elifesciences.org/reviewed-preprints/112921)
 - [Intercellular interaction mechanisms promote diversity in intracellular ATP concentration in Escherichia coli populations](https://www.nature.com/articles/s41598-022-22189-x)
 
  For more specifics please check my [CV](/cv.markdown).

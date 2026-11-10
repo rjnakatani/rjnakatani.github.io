@@ -19,6 +19,8 @@
  
 ## Selected Publications
 
+- Nakatani R. J. and De Schutter E. (2026) *Global Nernstian astrocytic depolarization breaks down during local synaptic input*, eLife
+
 - Nakatani R. J. et al. (2022) _Intercellular interaction mechanisms promote diversity in intracellular ATP concentration in Escherichia coli populations_, Scientific Reports
 
 ## Selected Presentations
@@ -31,6 +33,7 @@
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_
 - Hokkaido Caravan 2019 (2019) Japanese Society for Quantitative Biology, Selected Speaker  
  _Elucidation of ATP Diversity of E. Coli under Carbon Deprived Environments using Cell Lineage Analysis_
+
 ## Awards
 
 - Japan Society for the Promotion of Science  
